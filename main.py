@@ -93,6 +93,19 @@ try:
         except Exception:
             pass
         
+        try:
+            text_content = item.text
+            phone_pattern = r'((\+?\d{1,2}[ -]?)?(\(?\d{3}\)?[ -]?\d{3,4}[ -]?\d{4}|\(?\d{2,3}\)?[ -]?\d{2,3}[ -]?\d{2,3}[ -]?\d{2,3}))'
+            matches =  re.findall(phone_pattern, text_content)
+            
+            phone_numbers = [match[0] for match in matches]
+            unique_phone_numbers = list(set(phone_numbers))
+            
+            data['phone'] = unique_phone_numbers[0] if unique_phone_numbers else None
+            
+        except Exception:
+            pass
+        
         if(data.get('title')):
             results.append(data)
             

@@ -2,597 +2,816 @@
   {
     "title": "Dr Prakash S. Kurade",
     "link": "https://www.google.com/maps/place/Dr+Prakash+S.+Kurade/data=!4m7!3m6!1s0x3bbe4d4717d6e1d7:0x9aba84a748ee134!8m2!3d15.1801299!4d73.999759!16s%2Fg%2F11qr31_mmh!19sChIJ1-HWF0dNvjsRNOGOdEqoqwk?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
+    "stars": 4.8,
+    "review": 4,
+    "phone": null
   },
   {
     "title": "Dr Agnelo Lopes",
     "link": "https://www.google.com/maps/place/Dr+Agnelo+Lopes/data=!4m7!3m6!1s0x3bbe4d3cf7c41c4d:0x7b6eeb387005645d!8m2!3d15.1802995!4d73.9976238!16s%2Fg%2F11f4t5k6hb!19sChIJTRzE9zxNvjsRXWQFcDjrbns?authuser=0&hl=en&rclk=1",
-    "stars": 4.0
+    "stars": 4.0,
+    "review": 2,
+    "phone": null
   },
   {
     "title": "Dr. Lopez",
     "link": "https://www.google.com/maps/place/Dr.+Lopez/data=!4m7!3m6!1s0x3bbe4d84dabe0ab1:0x2d557532c41b6677!8m2!3d15.1803012!4d73.9979378!16s%2Fg%2F11h3mvwxgq!19sChIJsQq-2oRNvjsRd2YbxDJ1VS0?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 1,
+    "phone": null
   },
   {
     "title": "Dr. Shrinivas Dessai Clinik",
     "link": "https://www.google.com/maps/place/Dr.+Shrinivas+Dessai+Clinik/data=!4m7!3m6!1s0x3bbe4d3dba3e3a01:0x1dd1fefca13abf55!8m2!3d15.1788527!4d73.9986235!16s%2Fg%2F11f2wlrphc!19sChIJATo-uj1NvjsRVb86ofz-0R0?authuser=0&hl=en&rclk=1",
-    "stars": 2.0
+    "stars": 2.0,
+    "review": 1,
+    "phone": "099226 47323"
+  },
+  {
+    "title": "Dr. Anil Kurade",
+    "link": "https://www.google.com/maps/place/Dr.+Anil+Kurade/data=!4m7!3m6!1s0x3bbe4de9f65a856b:0x94f876dd146721fc!8m2!3d15.1798359!4d73.9979638!16s%2Fg%2F11v3klpqkh!19sChIJa4Va9ulNvjsR_CFnFN12-JQ?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Primary Health Centre, Bali",
     "link": "https://www.google.com/maps/place/Primary+Health+Centre,+Bali/data=!4m7!3m6!1s0x3bbe4d836979a0df:0x1471c4357ea3471f!8m2!3d15.1510034!4d74.0191794!16s%2Fg%2F1ths7t39!19sChIJ36B5aYNNvjsRH0ejfjXEcRQ?authuser=0&hl=en&rclk=1",
-    "stars": 3.7
-  },
-  {
-    "title": "Dr. Anil Kurade",
-    "link": "https://www.google.com/maps/place/Dr.+Anil+Kurade/data=!4m7!3m6!1s0x3bbe4de9f65a856b:0x94f876dd146721fc!8m2!3d15.1798359!4d73.9979638!16s%2Fg%2F11v3klpqkh!19sChIJa4Va9ulNvjsR_CFnFN12-JQ?authuser=0&hl=en&rclk=1"
+    "stars": 3.7,
+    "review": 22,
+    "phone": null
   },
   {
     "title": "Dr Pradeep D Talaukikar",
     "link": "https://www.google.com/maps/place/Dr+Pradeep+D+Talaukikar/data=!4m7!3m6!1s0x3bbe4d21564a2b73:0x1dafa4d1eb936f19!8m2!3d15.18116!4d73.988777!16s%2Fg%2F1tf7k_nl!19sChIJcytKViFNvjsRGW-T69Gkrx0?authuser=0&hl=en&rclk=1",
-    "stars": 4.0
+    "stars": 4.0,
+    "review": 1,
+    "phone": "0832 277 4794"
   },
   {
     "title": "Dwarkamai",
     "link": "https://www.google.com/maps/place/Dwarkamai/data=!4m7!3m6!1s0x3bbe4d484fc752c1:0x42c0ca03a249e8a1!8m2!3d15.1910218!4d74.0086232!16s%2Fg%2F11gf9q7jb9!19sChIJwVLHT0hNvjsRoehJogPKwEI?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 1,
+    "phone": "096047 60324"
   },
   {
     "title": "Dr. Max",
     "link": "https://www.google.com/maps/place/Dr.+Max/data=!4m7!3m6!1s0x3bbfb326716fa059:0x882f7771d2cf435!8m2!3d15.2110517!4d73.9776598!16s%2Fg%2F11c48s9f4l!19sChIJWaBvcSazvzsRNfQsHXf3ggg?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 2,
+    "phone": "098221 31187"
   },
   {
     "title": "Dr Satish Phal Desai",
-    "link": "https://www.google.com/maps/place/Dr+Satish+Phal+Desai/data=!4m7!3m6!1s0x3bbe4d21564a2b73:0x2cb420e24179d8bf!8m2!3d15.18116!4d73.988777!16s%2Fg%2F1tf149tf!19sChIJcytKViFNvjsRv9h5QeIgtCw?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Dr+Satish+Phal+Desai/data=!4m7!3m6!1s0x3bbe4d21564a2b73:0x2cb420e24179d8bf!8m2!3d15.18116!4d73.988777!16s%2Fg%2F1tf149tf!19sChIJcytKViFNvjsRv9h5QeIgtCw?authuser=0&hl=en&rclk=1",
+    "phone": "0832 286 6296"
   },
   {
     "title": "Dr. Pradeep Clinic",
     "link": "https://www.google.com/maps/place/Dr.+Pradeep+Clinic/data=!4m7!3m6!1s0x3bbe4d94cf67f6ff:0xc8a9805b09d56c9a!8m2!3d15.165536!4d73.9738367!16s%2Fg%2F11nsb7hk01!19sChIJ__Znz5RNvjsRmmzVCVuAqcg?authuser=0&hl=en&rclk=1",
-    "stars": 1.0
+    "stars": 1.0,
+    "review": 1,
+    "phone": null
   },
   {
-    "title": "Dr. Tanvi R. Acharya",
-    "link": "https://www.google.com/maps/place/Dr.+Tanvi+R.+Acharya/data=!4m7!3m6!1s0x3bbe4df294fdaa4b:0xc04e9bf62cdbfc46!8m2!3d15.1796557!4d73.997901!16s%2Fg%2F11vpmsqwpf!19sChIJS6r9lPJNvjsRRvzbLPabTsA?authuser=0&hl=en&rclk=1"
+    "title": "Casa Rafael Ubaldo Paes",
+    "link": "https://www.google.com/maps/place/Casa+Rafael+Ubaldo+Paes/data=!4m7!3m6!1s0x3bbe4d5e5cabc0db:0xc16af684e84fb48a!8m2!3d15.1756202!4d73.9743798!16s%2Fg%2F11h9m4c6t4!19sChIJ28CrXF5NvjsRirRP6IT2asE?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Dr. Anant N. Pai Angle",
+    "link": "https://www.google.com/maps/place/Dr.+Anant+N.+Pai+Angle/data=!4m7!3m6!1s0x3bbe4ce7b2dc88e7:0xe16ea39b1cb80490!8m2!3d15.1721089!4d73.9733046!16s%2Fg%2F11g6mldz9w!19sChIJ54jcsudMvjsRkAS4HJujbuE?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr. Armando Monteiro's Private Clinic",
     "link": "https://www.google.com/maps/place/Dr.+Armando+Monteiro%27s+Private+Clinic/data=!4m7!3m6!1s0x3bbe4cdcb48e1ba5:0x8e67bf1829df04f7!8m2!3d15.1792869!4d73.9713262!16s%2Fg%2F11c0w15z71!19sChIJpRuOtNxMvjsR9wTfKRi_Z44?authuser=0&hl=en&rclk=1",
-    "stars": 4.5
+    "stars": 4.5,
+    "review": 2,
+    "phone": null
   },
   {
-    "title": "Casa Rafael Ubaldo Paes",
-    "link": "https://www.google.com/maps/place/Casa+Rafael+Ubaldo+Paes/data=!4m7!3m6!1s0x3bbe4d5e5cabc0db:0xc16af684e84fb48a!8m2!3d15.1756202!4d73.9743798!16s%2Fg%2F11h9m4c6t4!19sChIJ28CrXF5NvjsRirRP6IT2asE?authuser=0&hl=en&rclk=1"
+    "title": "Dr. Tanvi R. Acharya",
+    "link": "https://www.google.com/maps/place/Dr.+Tanvi+R.+Acharya/data=!4m7!3m6!1s0x3bbe4df294fdaa4b:0xc04e9bf62cdbfc46!8m2!3d15.1796557!4d73.997901!16s%2Fg%2F11vpmsqwpf!19sChIJS6r9lPJNvjsRRvzbLPabTsA?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Ave Maria Homoeopathic Clinic",
     "link": "https://www.google.com/maps/place/Ave+Maria+Homoeopathic+Clinic/data=!4m7!3m6!1s0x3bbe4d0169bf5141:0xfb4a527caca5ccc5!8m2!3d15.1894555!4d73.9917895!16s%2Fg%2F11s5sd0vpq!19sChIJQVG_aQFNvjsRxcylrHxSSvs?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Dr. Anant N. Pai Angle",
-    "link": "https://www.google.com/maps/place/Dr.+Anant+N.+Pai+Angle/data=!4m7!3m6!1s0x3bbe4ce7b2dc88e7:0xe16ea39b1cb80490!8m2!3d15.1721089!4d73.9733046!16s%2Fg%2F11g6mldz9w!19sChIJ54jcsudMvjsRkAS4HJujbuE?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Dr Trevy Coutinho (M.B.B.S; D.P.H)",
-    "link": "https://www.google.com/maps/place/Dr+Trevy+Coutinho+%28M.B.B.S;+D.P.H%29/data=!4m7!3m6!1s0x3bbfb326a6d05a09:0x2b963a134a055d0c!8m2!3d15.2138546!4d73.9773457!16s%2Fg%2F124yl27jc!19sChIJCVrQpiazvzsRDF0FShM6lis?authuser=0&hl=en&rclk=1",
-    "stars": 4.4
-  },
-  {
-    "title": "Dr KRIPAKSH HEDGE",
-    "link": "https://www.google.com/maps/place/Dr+KRIPAKSH+HEDGE/data=!4m7!3m6!1s0x3bbfb362dc2271c3:0xa5e7e7caa4c5e59b!8m2!3d15.2557228!4d73.9659818!16s%2Fg%2F11mq467fyv!19sChIJw3Ei3GKzvzsRm-XFpMrn56U?authuser=0&hl=en&rclk=1",
-    "stars": 4.7
-  },
-  {
-    "title": "Dr. Babu Redker",
-    "link": "https://www.google.com/maps/place/Dr.+Babu+Redker/data=!4m7!3m6!1s0x3bbfb34f2fa1ae27:0xd539f1b408ff995b!8m2!3d15.2051261!4d73.9528983!16s%2Fg%2F11gbz0wcwc!19sChIJJ66hL0-zvzsRW5n_CLTxOdU?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 14,
+    "phone": "093562 18880"
   },
   {
     "title": "Dr. Redkar's Clinic",
     "link": "https://www.google.com/maps/place/Dr.+Redkar%27s+Clinic/data=!4m7!3m6!1s0x3bbfb34f2fbab169:0x6fd56eb27637b10c!8m2!3d15.2051794!4d73.9530154!16s%2Fg%2F11f_1d2hh0!19sChIJabG6L0-zvzsRDLE3drJu1W8?authuser=0&hl=en&rclk=1",
-    "stars": 3.7
+    "stars": 3.7,
+    "review": 3,
+    "phone": "098812 84499"
+  },
+  {
+    "title": "Dr Trevy Coutinho (M.B.B.S; D.P.H)",
+    "link": "https://www.google.com/maps/place/Dr+Trevy+Coutinho+%28M.B.B.S;+D.P.H%29/data=!4m7!3m6!1s0x3bbfb326a6d05a09:0x2b963a134a055d0c!8m2!3d15.2138546!4d73.9773457!16s%2Fg%2F124yl27jc!19sChIJCVrQpiazvzsRDF0FShM6lis?authuser=0&hl=en&rclk=1",
+    "stars": 4.4,
+    "review": 5,
+    "phone": null
+  },
+  {
+    "title": "Dr KRIPAKSH HEDGE",
+    "link": "https://www.google.com/maps/place/Dr+KRIPAKSH+HEDGE/data=!4m7!3m6!1s0x3bbfb362dc2271c3:0xa5e7e7caa4c5e59b!8m2!3d15.2557228!4d73.9659818!16s%2Fg%2F11mq467fyv!19sChIJw3Ei3GKzvzsRm-XFpMrn56U?authuser=0&hl=en&rclk=1",
+    "stars": 4.7,
+    "review": 12,
+    "phone": null
+  },
+  {
+    "title": "Dr. Babu Redker",
+    "link": "https://www.google.com/maps/place/Dr.+Babu+Redker/data=!4m7!3m6!1s0x3bbfb34f2fa1ae27:0xd539f1b408ff995b!8m2!3d15.2051261!4d73.9528983!16s%2Fg%2F11gbz0wcwc!19sChIJJ66hL0-zvzsRW5n_CLTxOdU?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 1,
+    "phone": "0832 270 2266"
+  },
+  {
+    "title": "ANANT HEALTH CARE.",
+    "link": "https://www.google.com/maps/place/ANANT+HEALTH+CARE./data=!4m7!3m6!1s0x3bbfad91acde884d:0x525ea77eeaf473aa!8m2!3d15.2623411!4d74.044167!16s%2Fg%2F11g7z7gvt3!19sChIJTYjerJGtvzsRqnP06n6nXlI?authuser=0&hl=en&rclk=1",
+    "website": "http://www.ananthealthcare.online/",
+    "stars": 4.8,
+    "review": 8,
+    "phone": "0832 278 4241"
   },
   {
     "title": "Dr K Ramanand Kamath",
     "link": "https://www.google.com/maps/place/Dr+K+Ramanand+Kamath/data=!4m7!3m6!1s0x3bbfad26ffffffff:0xb793e26fc178ec37!8m2!3d15.2190577!4d74.0740729!16s%2Fg%2F1trxc48k!19sChIJ_____yatvzsRN-x4wW_ik7c?authuser=0&hl=en&rclk=1",
-    "stars": 4.5
-  },
-  {
-    "title": "Dr Verenkar",
-    "link": "https://www.google.com/maps/place/Dr+Verenkar/data=!4m7!3m6!1s0x3bbfad905329764f:0x8ae801387a93cf2e!8m2!3d15.2622796!4d74.0441615!16s%2Fg%2F11b6hzvj15!19sChIJT3YpU5CtvzsRLs-TejgB6Io?authuser=0&hl=en&rclk=1"
+    "stars": 4.5,
+    "review": 6,
+    "phone": "0832 286 0111"
   },
   {
     "title": "Ave Maria Homoeopathic Clinic",
     "link": "https://www.google.com/maps/place/Ave+Maria+Homoeopathic+Clinic/data=!4m7!3m6!1s0x3bbe4d0169bf5141:0xfb4a527caca5ccc5!8m2!3d15.1894555!4d73.9917895!16s%2Fg%2F11s5sd0vpq!19sChIJQVG_aQFNvjsRxcylrHxSSvs?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 14,
+    "phone": "093562 18880"
+  },
+  {
+    "title": "Doctor",
+    "link": "https://www.google.com/maps/place/Doctor/data=!4m7!3m6!1s0x3bbfb39f0591166d:0x33a6f5799657da67!8m2!3d15.212847!4d73.972913!16s%2Fg%2F11l6bfndt4!19sChIJbRaRBZ-zvzsRZ9pXlnn1pjM?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr. P.S. Shah",
     "link": "https://www.google.com/maps/place/Dr.+P.S.+Shah/data=!4m7!3m6!1s0x3bbfb3beff2e69e9:0x8344d1046b2e5afe!8m2!3d15.2617551!4d73.9625934!16s%2Fg%2F1tfjp4bn!19sChIJ6Wku_76zvzsR_louawTRRIM?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 1,
+    "phone": "099225 35437"
   },
   {
     "title": "Dr. Kenneth Mascarenhas",
     "link": "https://www.google.com/maps/place/Dr.+Kenneth+Mascarenhas/data=!4m7!3m6!1s0x3bbfb3465adec57f:0x3fe10b3d5a0b7376!8m2!3d15.2356424!4d73.9431435!16s%2Fg%2F11hyhd809x!19sChIJf8XeWkazvzsRdnMLWj0L4T8?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 4,
+    "phone": "098600 58222"
+  },
+  {
+    "title": "Dr. Mahendra Kare Clinic",
+    "link": "https://www.google.com/maps/place/Dr.+Mahendra+Kare+Clinic/data=!4m7!3m6!1s0x3bbfb3e99a3e3a31:0x512a8e6f9709507b!8m2!3d15.2722354!4d73.9555114!16s%2Fg%2F11c1xd8h58!19sChIJMTo-mumzvzsRe1AJl2-OKlE?authuser=0&hl=en&rclk=1",
+    "stars": 4.8,
+    "review": 24,
+    "phone": "073505 21283"
   },
   {
     "title": "Dr. Deepak Lotliker's Clinic",
     "link": "https://www.google.com/maps/place/Dr.+Deepak+Lotliker%27s+Clinic/data=!4m7!3m6!1s0x3bbfac65dee5984b:0x17b69f7d27e2f5f1!8m2!3d15.2143365!4d74.071824!16s%2Fg%2F11b7w6_fnz!19sChIJS5jl3mWsvzsR8fXiJ32fthc?authuser=0&hl=en&rclk=1",
     "website": "https://dr-deepak-lotlikers-clinic.business.site/",
-    "stars": 4.5
+    "stars": 4.5,
+    "review": 16,
+    "phone": "0832 266 2395"
   },
   {
-    "title": "Gloria clinic, Dr. M.S.D. Prakash",
-    "link": "https://www.google.com/maps/place/Gloria+clinic,+Dr.+M.S.D.+Prakash/data=!4m7!3m6!1s0x3bbfb364d8ef5391:0x1fd4f5226976868d!8m2!3d15.228316!4d73.9449369!16s%2Fg%2F11f4pvr3cx!19sChIJkVPv2GSzvzsRjYZ2aSL11B8?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
+    "title": "Dr R G Prabhu Gaunker",
+    "link": "https://www.google.com/maps/place/Dr+R+G+Prabhu+Gaunker/data=!4m7!3m6!1s0x3bbfb30040966a59:0x28ed6c4ac07e8584!8m2!3d15.2128823!4d73.938169!16s%2Fg%2F11y3dnp6_t!19sChIJWWqWQACzvzsRhIV-wEps7Sg?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
-    "title": "Doctor",
-    "link": "https://www.google.com/maps/place/Doctor/data=!4m7!3m6!1s0x3bbfb39f0591166d:0x33a6f5799657da67!8m2!3d15.212847!4d73.972913!16s%2Fg%2F11l6bfndt4!19sChIJbRaRBZ-zvzsRZ9pXlnn1pjM?authuser=0&hl=en&rclk=1"
+    "title": "Dr. Tanvi R. Acharya",
+    "link": "https://www.google.com/maps/place/Dr.+Tanvi+R.+Acharya/data=!4m7!3m6!1s0x3bbe4df294fdaa4b:0xc04e9bf62cdbfc46!8m2!3d15.1796557!4d73.997901!16s%2Fg%2F11vpmsqwpf!19sChIJS6r9lPJNvjsRRvzbLPabTsA?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr Arun Sankaw's Clinic",
     "link": "https://www.google.com/maps/place/Dr+Arun+Sankaw%27s+Clinic/data=!4m7!3m6!1s0x3bbfad56e6266d97:0x29898de4a9bcffbd!8m2!3d15.2282305!4d74.0505022!16s%2Fg%2F11k2y_7zlp!19sChIJl20m5latvzsRvf-8qeSNiSk?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Dr. Mahendra Kare Clinic",
-    "link": "https://www.google.com/maps/place/Dr.+Mahendra+Kare+Clinic/data=!4m7!3m6!1s0x3bbfb3e99a3e3a31:0x512a8e6f9709507b!8m2!3d15.2722354!4d73.9555114!16s%2Fg%2F11c1xd8h58!19sChIJMTo-mumzvzsRe1AJl2-OKlE?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
-  },
-  {
-    "title": "Dr R G Prabhu Gaunker",
-    "link": "https://www.google.com/maps/place/Dr+R+G+Prabhu+Gaunker/data=!4m7!3m6!1s0x3bbfb30040966a59:0x28ed6c4ac07e8584!8m2!3d15.2128823!4d73.938169!16s%2Fg%2F11y3dnp6_t!19sChIJWWqWQACzvzsRhIV-wEps7Sg?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Dr. Tanvi R. Acharya",
-    "link": "https://www.google.com/maps/place/Dr.+Tanvi+R.+Acharya/data=!4m7!3m6!1s0x3bbe4df294fdaa4b:0xc04e9bf62cdbfc46!8m2!3d15.1796557!4d73.997901!16s%2Fg%2F11vpmsqwpf!19sChIJS6r9lPJNvjsRRvzbLPabTsA?authuser=0&hl=en&rclk=1"
+    "stars": 5.0,
+    "review": 1,
+    "phone": null
   },
   {
     "title": "Doctor Rahul P.Borker",
     "link": "https://www.google.com/maps/place/Doctor+Rahul+P.Borker/data=!4m7!3m6!1s0x3bbfb3c15f430d5d:0x8ae8426effda5dbe!8m2!3d15.2706209!4d73.9641945!16s%2Fg%2F11c37l2ygt!19sChIJXQ1DX8GzvzsRvl3a_25C6Io?authuser=0&hl=en&rclk=1",
-    "stars": 4.6
+    "stars": 4.6,
+    "review": 7,
+    "phone": "097679 48049"
   },
   {
-    "title": "Dr.Sudhir M.Shet",
-    "link": "https://www.google.com/maps/place/Dr.Sudhir+M.Shet/data=!4m7!3m6!1s0x3bbfb3bbf0a8d1d3:0x3fedcac73ac98862!8m2!3d15.258512!4d73.96584!16s%2Fg%2F11gczgw1v5!19sChIJ09Go8LuzvzsRYojJOsfK7T8?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
-  },
-  {
-    "title": "Kamat Dr D P",
-    "link": "https://www.google.com/maps/place/Kamat+Dr+D+P/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x630ba04a6ca54846!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1tnjh057!19sChIJp6hDwemzvzsRRkilbEqgC2M?authuser=0&hl=en&rclk=1",
-    "stars": 4.0
-  },
-  {
-    "title": "D'costa Dr John Clinic",
-    "link": "https://www.google.com/maps/place/D%27costa+Dr+John+Clinic/data=!4m7!3m6!1s0x3bbfb3b35ba04b57:0xe65d551320eac3dd!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1t_wmt36!19sChIJV0ugW7OzvzsR3cPqIBNVXeY?authuser=0&hl=en&rclk=1",
-    "stars": 4.5
+    "title": "Gloria clinic, Dr. M.S.D. Prakash",
+    "link": "https://www.google.com/maps/place/Gloria+clinic,+Dr.+M.S.D.+Prakash/data=!4m7!3m6!1s0x3bbfb364d8ef5391:0x1fd4f5226976868d!8m2!3d15.228316!4d73.9449369!16s%2Fg%2F11f4pvr3cx!19sChIJkVPv2GSzvzsRjYZ2aSL11B8?authuser=0&hl=en&rclk=1",
+    "stars": 4.8,
+    "review": 25,
+    "phone": "099232 69472"
   },
   {
     "title": "Naik Dr Rajeshwar V",
     "link": "https://www.google.com/maps/place/Naik+Dr+Rajeshwar+V/data=!4m7!3m6!1s0x3bbfb3cebfffffff:0x6a2ad6fc04acc052!8m2!3d15.2709307!4d73.972055!16s%2Fg%2F1trpp76j!19sChIJ____v86zvzsRUsCsBPzWKmo?authuser=0&hl=en&rclk=1",
-    "stars": 3.9
+    "stars": 3.9,
+    "review": 15,
+    "phone": "0832 273 4777"
+  },
+  {
+    "title": "Kamat Dr D P",
+    "link": "https://www.google.com/maps/place/Kamat+Dr+D+P/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x630ba04a6ca54846!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1tnjh057!19sChIJp6hDwemzvzsRRkilbEqgC2M?authuser=0&hl=en&rclk=1",
+    "stars": 4.0,
+    "review": 4,
+    "phone": "0832 273 0416"
+  },
+  {
+    "title": "D'costa Dr John Clinic",
+    "link": "https://www.google.com/maps/place/D%27costa+Dr+John+Clinic/data=!4m7!3m6!1s0x3bbfb3b35ba04b57:0xe65d551320eac3dd!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1t_wmt36!19sChIJV0ugW7OzvzsR3cPqIBNVXeY?authuser=0&hl=en&rclk=1",
+    "stars": 4.5,
+    "review": 2,
+    "phone": "0832 273 9688"
   },
   {
     "title": "Dr Gladstone A Dcosta",
     "link": "https://www.google.com/maps/place/Dr+Gladstone+A+Dcosta/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xa94874256990599c!8m2!3d15.2718063!4d73.9570652!16s%2Fg%2F1tfnx0t0!19sChIJp6hDwemzvzsRnFmQaSV0SKk?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 4,
+    "phone": "0832 273 3724"
+  },
+  {
+    "title": "Dr.Sudhir M.Shet",
+    "link": "https://www.google.com/maps/place/Dr.Sudhir+M.Shet/data=!4m7!3m6!1s0x3bbfb3bbf0a8d1d3:0x3fedcac73ac98862!8m2!3d15.258512!4d73.96584!16s%2Fg%2F11gczgw1v5!19sChIJ09Go8LuzvzsRYojJOsfK7T8?authuser=0&hl=en&rclk=1",
+    "stars": 4.8,
+    "review": 10,
+    "phone": "080074 85505"
+  },
+  {
+    "title": "Dr. Yogesh Shetye",
+    "link": "https://www.google.com/maps/place/Dr.+Yogesh+Shetye/data=!4m7!3m6!1s0x3bbfb3d985b6f2d7:0xe176677ebd17ac5d!8m2!3d15.2767912!4d73.9788139!16s%2Fg%2F1hc3kx9th!19sChIJ1_K2hdmzvzsRXawXvX5nduE?authuser=0&hl=en&rclk=1",
+    "stars": 4.7,
+    "review": 31,
+    "phone": "099236 34099"
   },
   {
     "title": "Bibeyagal Football Ground",
     "link": "https://www.google.com/maps/place/Bibeyagal+Football+Ground/data=!4m7!3m6!1s0x3bbe52b955555555:0x7ade41eb3fb54113!8m2!3d15.185932!4d74.0476378!16s%2Fg%2F11f0krjfgj!19sChIJVVVVVblSvjsRE0G1P-tB3no?authuser=0&hl=en&rclk=1",
-    "stars": 2.0
+    "stars": 2.0,
+    "review": 1,
+    "phone": null
+  },
+  {
+    "title": "Dr Lewis Silva",
+    "link": "https://www.google.com/maps/place/Dr+Lewis+Silva/data=!4m7!3m6!1s0x3bbfb3e61aaaaaab:0xacca713133cf5400!8m2!3d15.2763917!4d73.9543346!16s%2Fg%2F1tghbl8t!19sChIJq6qqGuazvzsRAFTPMzFxyqw?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 2,
+    "phone": "0832 274 2999"
+  },
+  {
+    "title": "Dr Mrs Uma A Kossambe",
+    "link": "https://www.google.com/maps/place/Dr+Mrs+Uma+A+Kossambe/data=!4m7!3m6!1s0x3bbfb3e61aaaaaab:0xa6e384e6960babc3!8m2!3d15.2763398!4d73.954351!16s%2Fg%2F1tfzqc73!19sChIJq6qqGuazvzsRw6sLluaE46Y?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 4,
+    "phone": "0832 323 6599"
   },
   {
     "title": "Dr Kakode Geeta",
     "link": "https://www.google.com/maps/place/Dr+Kakode+Geeta/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x82716bdd055ef325!8m2!3d15.2703408!4d73.9637791!16s%2Fg%2F1tfp0xn6!19sChIJp6hDwemzvzsRJfNeBd1rcYI?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "stars": 4.3,
+    "review": 21,
+    "phone": "0832 273 7084"
   },
   {
     "title": "Nagarsenkar's Classic Hospital",
     "link": "https://www.google.com/maps/place/Nagarsenkar%27s+Classic+Hospital/data=!4m7!3m6!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw!19sChIJ2yrxtsazvzsR9n-ejUwODfo?authuser=0&hl=en&rclk=1",
     "website": "http://www.classichospitalgoa.com/",
-    "stars": 3.8
+    "stars": 3.8,
+    "review": 138,
+    "phone": "0832 271 1014"
   },
   {
-    "title": "Dr. Yogesh Shetye",
-    "link": "https://www.google.com/maps/place/Dr.+Yogesh+Shetye/data=!4m7!3m6!1s0x3bbfb3d985b6f2d7:0xe176677ebd17ac5d!8m2!3d15.2767912!4d73.9788139!16s%2Fg%2F1hc3kx9th!19sChIJ1_K2hdmzvzsRXawXvX5nduE?authuser=0&hl=en&rclk=1",
-    "stars": 4.7
+    "title": "Dr. Ghodge",
+    "link": "https://www.google.com/maps/place/Dr.+Ghodge/data=!4m7!3m6!1s0x3bbfb23df30d2bbd:0x6d6de255dd84afdd!8m2!3d15.2750576!4d74.005979!16s%2Fg%2F11fy4tt58w!19sChIJvSsN8z2yvzsR3a-E3VXibW0?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
-    "title": "Dr. Elisabeth Lacerda e Furtado, Homeopathic doctor",
-    "link": "https://www.google.com/maps/place/Dr.+Elisabeth+Lacerda+e+Furtado,+Homeopathic+doctor/data=!4m7!3m6!1s0x3bbfb324ed3a8535:0x9bdb157fe880aa9!8m2!3d15.2130587!4d73.9733398!16s%2Fg%2F1tdnvbgj!19sChIJNYU67SSzvzsRqQqI_lexvQk?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "title": "Zubeda Clinic",
+    "link": "https://www.google.com/maps/place/Zubeda+Clinic/data=!4m7!3m6!1s0x3bbfb315eafc6431:0xa5bda164d43fd1a7!8m2!3d15.2778376!4d73.9864544!16s%2Fg%2F11sp491836!19sChIJMWT86hWzvzsRp9E_1GShvaU?authuser=0&hl=en&rclk=1",
+    "phone": "097659 46230"
   },
   {
-    "title": "Dr Hugo Viegas Geriatric Speciality Clinic",
-    "link": "https://www.google.com/maps/place/Dr+Hugo+Viegas+Geriatric+Speciality+Clinic/data=!4m7!3m6!1s0x3bbfb34c40658fd9:0xe1eefd212cb416c0!8m2!3d15.2003426!4d73.9520246!16s%2Fg%2F11g6rl8vs6!19sChIJ2Y9lQEyzvzsRwBa0LCH97uE?authuser=0&hl=en&rclk=1",
-    "stars": 4.7
-  },
-  {
-    "title": "Dr. Uday Chafadker",
-    "link": "https://www.google.com/maps/place/Dr.+Uday+Chafadker/data=!4m7!3m6!1s0x3bbfb3d0dee64e2b:0x2c0e0cf32a3773e2!8m2!3d15.2707681!4d73.9635641!16s%2Fg%2F11fj2sm0gx!19sChIJK07m3tCzvzsR4nM3KvMMDiw?authuser=0&hl=en&rclk=1",
-    "stars": 4.9
-  },
-  {
-    "title": "Dr Ricardo Teles",
-    "link": "https://www.google.com/maps/place/Dr+Ricardo+Teles/data=!4m7!3m6!1s0x3bbfb32f7324d201:0x1ce3f229a0766220!8m2!3d15.2758126!4d73.9570162!16s%2Fg%2F11hz9d3x2_!19sChIJAdIkcy-zvzsRIGJ2oCny4xw?authuser=0&hl=en&rclk=1",
-    "stars": 4.2
+    "title": "Shanti Raj Clinic",
+    "link": "https://www.google.com/maps/place/Shanti+Raj+Clinic/data=!4m7!3m6!1s0x3bbfb228ea079b43:0x27c8364f30dc4191!8m2!3d15.2857806!4d73.9933593!16s%2Fg%2F11cjgk4csq!19sChIJQ5sH6iiyvzsRkUHcME82yCc?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 2,
+    "phone": "0832 272 4077"
   },
   {
     "title": "Dr Venkatesh Vassant Molio (Malaye)",
     "link": "https://www.google.com/maps/place/Dr+Venkatesh+Vassant+Molio+%28Malaye%29/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x1d2693880fb4cd04!8m2!3d15.2750571!4d73.9567889!16s%2Fg%2F1wnbwgc1!19sChIJp6hDwemzvzsRBM20D4iTJh0?authuser=0&hl=en&rclk=1",
     "website": "http://dr-venkatesh-molio.jany.io/",
-    "stars": 4.7
-  },
-  {
-    "title": "Dr Lewis Silva",
-    "link": "https://www.google.com/maps/place/Dr+Lewis+Silva/data=!4m7!3m6!1s0x3bbfb3e61aaaaaab:0xacca713133cf5400!8m2!3d15.2763917!4d73.9543346!16s%2Fg%2F1tghbl8t!19sChIJq6qqGuazvzsRAFTPMzFxyqw?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Homeocare Clinic",
-    "link": "https://www.google.com/maps/place/Homeocare+Clinic/data=!4m7!3m6!1s0x3bbfadb15b097cf1:0x11a0ead2a1d130f4!8m2!3d15.2187778!4d74.0871376!16s%2Fg%2F11h191_jgy!19sChIJ8XwJW7GtvzsR9DDRodLqoBE?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Dr Pravin Bhatt Chest Clinic",
-    "link": "https://www.google.com/maps/place/Dr+Pravin+Bhatt+Chest+Clinic/data=!4m7!3m6!1s0x3bbfb3c200981105:0xf918863109d5b1ab!8m2!3d15.2706509!4d73.959531!16s%2Fg%2F11cmb98gc9!19sChIJBRGYAMKzvzsRq7HVCTGGGPk?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "stars": 4.7,
+    "review": 80,
+    "phone": "084461 94505"
   },
   {
     "title": "Royal Hospital",
     "link": "https://www.google.com/maps/place/Royal+Hospital/data=!4m7!3m6!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p!19sChIJoYQassizvzsR-er45kSzq7w?authuser=0&hl=en&rclk=1",
     "website": "http://www.royalhospital.in/",
-    "stars": 3.5
+    "stars": 3.5,
+    "review": 86,
+    "phone": "0832 273 7722"
   },
   {
-    "title": "Dr. Ghodge",
-    "link": "https://www.google.com/maps/place/Dr.+Ghodge/data=!4m7!3m6!1s0x3bbfb23df30d2bbd:0x6d6de255dd84afdd!8m2!3d15.2750576!4d74.005979!16s%2Fg%2F11fy4tt58w!19sChIJvSsN8z2yvzsR3a-E3VXibW0?authuser=0&hl=en&rclk=1"
+    "title": "Dr. Uday Chafadker",
+    "link": "https://www.google.com/maps/place/Dr.+Uday+Chafadker/data=!4m7!3m6!1s0x3bbfb3d0dee64e2b:0x2c0e0cf32a3773e2!8m2!3d15.2707681!4d73.9635641!16s%2Fg%2F11fj2sm0gx!19sChIJK07m3tCzvzsR4nM3KvMMDiw?authuser=0&hl=en&rclk=1",
+    "stars": 4.9,
+    "review": 11,
+    "phone": null
+  },
+  {
+    "title": "Dr Ricardo Teles",
+    "link": "https://www.google.com/maps/place/Dr+Ricardo+Teles/data=!4m7!3m6!1s0x3bbfb32f7324d201:0x1ce3f229a0766220!8m2!3d15.2758126!4d73.9570162!16s%2Fg%2F11hz9d3x2_!19sChIJAdIkcy-zvzsRIGJ2oCny4xw?authuser=0&hl=en&rclk=1",
+    "stars": 4.2,
+    "review": 5,
+    "phone": null
+  },
+  {
+    "title": "Homeocare Clinic",
+    "link": "https://www.google.com/maps/place/Homeocare+Clinic/data=!4m7!3m6!1s0x3bbfadb15b097cf1:0x11a0ead2a1d130f4!8m2!3d15.2187778!4d74.0871376!16s%2Fg%2F11h191_jgy!19sChIJ8XwJW7GtvzsR9DDRodLqoBE?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 2,
+    "phone": "098238 52260"
+  },
+  {
+    "title": "Dr Pravin Bhatt Chest Clinic",
+    "link": "https://www.google.com/maps/place/Dr+Pravin+Bhatt+Chest+Clinic/data=!4m7!3m6!1s0x3bbfb3c200981105:0xf918863109d5b1ab!8m2!3d15.2706509!4d73.959531!16s%2Fg%2F11cmb98gc9!19sChIJBRGYAMKzvzsRq7HVCTGGGPk?authuser=0&hl=en&rclk=1",
+    "stars": 4.3,
+    "review": 27,
+    "phone": "098224 87130"
   },
   {
     "title": "Dr Sunny Kamat | Best Orthopaedic Doctor in Goa",
     "link": "https://www.google.com/maps/place/Dr+Sunny+Kamat+%7C+Best+Orthopaedic+Doctor+in+Goa/data=!4m7!3m6!1s0x3bbfb3c2c0000001:0xf80e27d80f86aaed!8m2!3d15.2759501!4d73.9633087!16s%2Fg%2F11s31_pkrx!19sChIJAQAAwMKzvzsR7aqGD9gnDvg?authuser=0&hl=en&rclk=1",
     "website": "http://drsunnykamat.com/",
-    "stars": 4.9
+    "stars": 4.9,
+    "review": 45,
+    "phone": "095796 04120"
   },
   {
     "title": "Dr. Sandeep Fowkar",
     "link": "https://www.google.com/maps/place/Dr.+Sandeep+Fowkar/data=!4m7!3m6!1s0x3bbfb38124200e85:0x1c88a9833081b4a1!8m2!3d15.2720362!4d73.9675305!16s%2Fg%2F11ghsbpz7g!19sChIJhQ4gJIGzvzsRobSBMIOpiBw?authuser=0&hl=en&rclk=1",
-    "stars": 4.2
-  },
-  {
-    "title": "Dr Mrs Uma A Kossambe",
-    "link": "https://www.google.com/maps/place/Dr+Mrs+Uma+A+Kossambe/data=!4m7!3m6!1s0x3bbfb3e61aaaaaab:0xa6e384e6960babc3!8m2!3d15.2763398!4d73.954351!16s%2Fg%2F1tfzqc73!19sChIJq6qqGuazvzsRw6sLluaE46Y?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Dr.kepkar's Clinic Margao",
-    "link": "https://www.google.com/maps/place/Dr.kepkar%27s+Clinic+Margao/data=!4m7!3m6!1s0x3bbfb3c2a7e42e13:0x703d42d1fd660df9!8m2!3d15.2739375!4d73.9599375!16s%2Fg%2F11btvl7n92!19sChIJEy7kp8KzvzsR-Q1m_dFCPXA?authuser=0&hl=en&rclk=1",
-    "stars": 4.6
-  },
-  {
-    "title": "Dr. Sanjivi Talak",
-    "link": "https://www.google.com/maps/place/Dr.+Sanjivi+Talak/data=!4m7!3m6!1s0x3bbfb354965436e1:0xa9ab9151ef6af510!8m2!3d15.273416!4d73.9555588!16s%2Fg%2F11r79mg87r!19sChIJ4TZUllSzvzsREPVq71GRq6k?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Shanti Raj Clinic",
-    "link": "https://www.google.com/maps/place/Shanti+Raj+Clinic/data=!4m7!3m6!1s0x3bbfb228ea079b43:0x27c8364f30dc4191!8m2!3d15.2857806!4d73.9933593!16s%2Fg%2F11cjgk4csq!19sChIJQ5sH6iiyvzsRkUHcME82yCc?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Piles Clinic in Goa",
-    "link": "https://www.google.com/maps/place/Piles+Clinic+in+Goa/data=!4m7!3m6!1s0x3bbe4d3ffc2ab515:0x8360673bc2e0e902!8m2!3d15.1814705!4d73.9975828!16s%2Fg%2F11t6g5bw8l!19sChIJFbUq_D9NvjsRAungwjtnYIM?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Dr. Neuman J. Correia Clinic",
-    "link": "https://www.google.com/maps/place/Dr.+Neuman+J.+Correia+Clinic/data=!4m7!3m6!1s0x3bbfb3ddefe347cb:0xb60ccd619580516c!8m2!3d15.2729166!4d73.9560114!16s%2Fg%2F11n751lsfb!19sChIJy0fj792zvzsRbFGAlWHNDLY?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 4.2,
+    "review": 5,
+    "phone": null
   },
   {
     "title": "Dr Umesh Panandikar Clinic",
     "link": "https://www.google.com/maps/place/Dr+Umesh+Panandikar+Clinic/data=!4m7!3m6!1s0x3bbfb41976bfb571:0xb0141ef6897dc3f1!8m2!3d15.2789602!4d73.9264903!16s%2Fg%2F1tfcx7nj!19sChIJcbW_dhm0vzsR8cN9ifYeFLA?authuser=0&hl=en&rclk=1",
-    "stars": 4.0
+    "stars": 4.0,
+    "review": 5,
+    "phone": "0832 278 8391"
   },
   {
-    "title": "Dr Subhash Chandra",
-    "link": "https://www.google.com/maps/place/Dr+Subhash+Chandra/data=!4m7!3m6!1s0x3bbfb3e8e6ab0105:0x13f7b2511435608!8m2!3d15.2733963!4d73.9555018!16s%2Fg%2F11dxf14wkq!19sChIJBQGr5uizvzsRCFZDESV7PwE?authuser=0&hl=en&rclk=1",
-    "stars": 4.1
+    "title": "Dr. Elisabeth Lacerda e Furtado, Homeopathic doctor",
+    "link": "https://www.google.com/maps/place/Dr.+Elisabeth+Lacerda+e+Furtado,+Homeopathic+doctor/data=!4m7!3m6!1s0x3bbfb324ed3a8535:0x9bdb157fe880aa9!8m2!3d15.2130587!4d73.9733398!16s%2Fg%2F1tdnvbgj!19sChIJNYU67SSzvzsRqQqI_lexvQk?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 4,
+    "phone": null
   },
   {
-    "title": "Zubeda Clinic",
-    "link": "https://www.google.com/maps/place/Zubeda+Clinic/data=!4m7!3m6!1s0x3bbfb315eafc6431:0xa5bda164d43fd1a7!8m2!3d15.2778376!4d73.9864544!16s%2Fg%2F11sp491836!19sChIJMWT86hWzvzsRp9E_1GShvaU?authuser=0&hl=en&rclk=1"
+    "title": "Dr Hugo Viegas Geriatric Speciality Clinic",
+    "link": "https://www.google.com/maps/place/Dr+Hugo+Viegas+Geriatric+Speciality+Clinic/data=!4m7!3m6!1s0x3bbfb34c40658fd9:0xe1eefd212cb416c0!8m2!3d15.2003426!4d73.9520246!16s%2Fg%2F11g6rl8vs6!19sChIJ2Y9lQEyzvzsRwBa0LCH97uE?authuser=0&hl=en&rclk=1",
+    "stars": 4.7,
+    "review": 3,
+    "phone": "098223 80820"
   },
   {
-    "title": "Dr. Mahesh Raikar",
-    "link": "https://www.google.com/maps/place/Dr.+Mahesh+Raikar/data=!4m7!3m6!1s0x3bbe4d930963f1f5:0x3e13768e43c1a018!8m2!3d15.1795908!4d73.996415!16s%2Fg%2F11p0jdmvcj!19sChIJ9fFjCZNNvjsRGKDBQ452Ez4?authuser=0&hl=en&rclk=1"
+    "title": "Dr.kepkar's Clinic Margao",
+    "link": "https://www.google.com/maps/place/Dr.kepkar%27s+Clinic+Margao/data=!4m7!3m6!1s0x3bbfb3c2a7e42e13:0x703d42d1fd660df9!8m2!3d15.2739375!4d73.9599375!16s%2Fg%2F11btvl7n92!19sChIJEy7kp8KzvzsR-Q1m_dFCPXA?authuser=0&hl=en&rclk=1",
+    "stars": 4.6,
+    "review": 22,
+    "phone": "0832 272 5725"
   },
   {
-    "title": "Dhakankar Clinic",
-    "link": "https://www.google.com/maps/place/Dhakankar+Clinic/data=!4m7!3m6!1s0x3bbfb31498b933dd:0xe1e3a9f52d3e681b!8m2!3d15.2740613!4d73.9537399!16s%2Fg%2F11n094cbwv!19sChIJ3TO5mBSzvzsRG2g-LfWp4-E?authuser=0&hl=en&rclk=1",
-    "website": "https://dhakankarclinic.com/",
-    "stars": 4.6
+    "title": "Dr. Sanjivi Talak",
+    "link": "https://www.google.com/maps/place/Dr.+Sanjivi+Talak/data=!4m7!3m6!1s0x3bbfb354965436e1:0xa9ab9151ef6af510!8m2!3d15.273416!4d73.9555588!16s%2Fg%2F11r79mg87r!19sChIJ4TZUllSzvzsREPVq71GRq6k?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 12,
+    "phone": "091126 14435"
+  },
+  {
+    "title": "Dr s gaitonde",
+    "link": "https://www.google.com/maps/place/Dr+s+gaitonde/data=!4m7!3m6!1s0x3bbfb30078c05903:0x7c5525625c337eae!8m2!3d15.2846043!4d73.9884621!16s%2Fg%2F11vmbjtn9m!19sChIJA1nAeACzvzsRrn4zXGIlVXw?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Dr Lloyd Simoes",
+    "link": "https://www.google.com/maps/place/Dr+Lloyd+Simoes/data=!4m7!3m6!1s0x3bbfb1610b28d361:0xaba3a6bfb8812d9c!8m2!3d15.2907139!4d73.9638718!16s%2Fg%2F1261j3pc9!19sChIJYdMoC2GxvzsRnC2BuL-mo6s?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr Connie D'Silva's J.E. Women's Clinic",
     "link": "https://www.google.com/maps/place/Dr+Connie+D%27Silva%27s+J.E.+Women%27s+Clinic/data=!4m7!3m6!1s0x3bbfb37fb9adb409:0x717ea8cc98e70a10!8m2!3d15.2761119!4d73.9633697!16s%2Fg%2F11h18zbg08!19sChIJCbStuX-zvzsREArnmMyofnE?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 178,
+    "phone": "077740 28100"
+  },
+  {
+    "title": "Dr. Neuman J. Correia Clinic",
+    "link": "https://www.google.com/maps/place/Dr.+Neuman+J.+Correia+Clinic/data=!4m7!3m6!1s0x3bbfb3ddefe347cb:0xb60ccd619580516c!8m2!3d15.2729166!4d73.9560114!16s%2Fg%2F11n751lsfb!19sChIJy0fj792zvzsRbFGAlWHNDLY?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 22,
+    "phone": "096899 73060"
+  },
+  {
+    "title": "Dr.Dipak kamat",
+    "link": "https://www.google.com/maps/place/Dr.Dipak+kamat/data=!4m7!3m6!1s0x3bbfb3fc00a50c57:0x6b2a54ed66d7a261!8m2!3d15.288372!4d73.9826021!16s%2Fg%2F11l6vbb6sc!19sChIJVwylAPyzvzsRYaLXZu1UKms?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Piles Clinic in Goa",
+    "link": "https://www.google.com/maps/place/Piles+Clinic+in+Goa/data=!4m7!3m6!1s0x3bbe4d3ffc2ab515:0x8360673bc2e0e902!8m2!3d15.1814705!4d73.9975828!16s%2Fg%2F11t6g5bw8l!19sChIJFbUq_D9NvjsRAungwjtnYIM?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr V.V Kamat",
     "link": "https://www.google.com/maps/place/Dr+V.V+Kamat/data=!4m7!3m6!1s0x3bbfb3e9e5f3c705:0xb2897a2bc7437659!8m2!3d15.2712717!4d73.95879!16s%2Fg%2F11g7crkm6d!19sChIJBcfz5emzvzsRWXZDxyt6ibI?authuser=0&hl=en&rclk=1",
-    "stars": 2.4
-  },
-  {
-    "title": "Dr. Sanjay Khope",
-    "link": "https://www.google.com/maps/place/Dr.+Sanjay+Khope/data=!4m7!3m6!1s0x3bbfb327731f3297:0x5e4d71fb9ffcd8b8!8m2!3d15.2746946!4d73.9609634!16s%2Fg%2F11g1_89j5h!19sChIJlzIfcyezvzsRuNj8n_txTV4?authuser=0&hl=en&rclk=1",
-    "website": "http://drsanjaykhope.com/",
-    "stars": 4.7
-  },
-  {
-    "title": "Dr Prabhu Desai Clinic",
-    "link": "https://www.google.com/maps/place/Dr+Prabhu+Desai+Clinic/data=!4m7!3m6!1s0x3bbfb372a54f8d2f:0x903feba47e7c900c!8m2!3d15.2715006!4d73.9790048!16s%2Fg%2F11mw5xl2d6!19sChIJL41PpXKzvzsRDJB8fqTrP5A?authuser=0&hl=en&rclk=1",
-    "stars": 4.5
-  },
-  {
-    "title": "MANTRA AYURVEDA CLINIC AND HERBAL PHARMACY",
-    "link": "https://www.google.com/maps/place/MANTRA+AYURVEDA+CLINIC+AND+HERBAL+PHARMACY/data=!4m7!3m6!1s0x3bbfb47354ad657d:0xced99f46feb0461a!8m2!3d15.262394!4d73.9299458!16s%2Fg%2F11hd24xhpy!19sChIJfWWtVHO0vzsRGkaw_kaf2c4?authuser=0&hl=en&rclk=1",
-    "stars": 4.9
-  },
-  {
-    "title": "Dr. Sudaiv Nagzarkar - General and Laparoscopic Surgeon",
-    "link": "https://www.google.com/maps/place/Dr.+Sudaiv+Nagzarkar+-+General+and+Laparoscopic+Surgeon/data=!4m7!3m6!1s0x3bbfb3075e829ed3:0xccf559f3b9480170!8m2!3d15.2724094!4d73.9599478!16s%2Fg%2F11qm3fvmk5!19sChIJ056CXgezvzsRcAFIufNZ9cw?authuser=0&hl=en&rclk=1",
-    "website": "http://www.drsudaiv.com/",
-    "stars": 4.7
+    "stars": 2.4,
+    "review": 40,
+    "phone": "0832 270 2878"
   },
   {
     "title": "Doctors Clinic (MBBS, General Physician) and Metropolis Blood Testing Center, Fatorda, Margao",
     "link": "https://www.google.com/maps/place/Doctors+Clinic+%28MBBS,+General+Physician%29+and+Metropolis+Blood+Testing+Center,+Fatorda,+Margao/data=!4m7!3m6!1s0x3bbfb1c38c84b63f:0x293a704fa724eabe!8m2!3d15.2919131!4d73.9561759!16s%2Fg%2F11l20k9rzl!19sChIJP7aEjMOxvzsRvuokp09wOik?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 33,
+    "phone": "070666 00401"
   },
   {
     "title": "Dr Pushpil Suralkar",
     "link": "https://www.google.com/maps/place/Dr+Pushpil+Suralkar/data=!4m7!3m6!1s0x3bbfb3d71fcac793:0x3d328997dbb6ad4c!8m2!3d15.2843429!4d73.9741015!16s%2Fg%2F1hm3qffcx!19sChIJk8fKH9ezvzsRTK2225eJMj0?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "stars": 4.3,
+    "review": 14,
+    "phone": null
   },
   {
     "title": "Family Wellness Clinic",
     "link": "https://www.google.com/maps/place/Family+Wellness+Clinic/data=!4m7!3m6!1s0x3bbfb5cb9415ac8d:0x8580f384a48a4eb6!8m2!3d15.2781009!4d73.9288202!16s%2Fg%2F11rnhwksw2!19sChIJjawVlMu1vzsRtk6KpITzgIU?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
+    "stars": 4.8,
+    "review": 6,
+    "phone": "080074 89222"
   },
   {
-    "title": "Dr s gaitonde",
-    "link": "https://www.google.com/maps/place/Dr+s+gaitonde/data=!4m7!3m6!1s0x3bbfb30078c05903:0x7c5525625c337eae!8m2!3d15.2846043!4d73.9884621!16s%2Fg%2F11vmbjtn9m!19sChIJA1nAeACzvzsRrn4zXGIlVXw?authuser=0&hl=en&rclk=1"
+    "title": "Dr Subhash Chandra",
+    "link": "https://www.google.com/maps/place/Dr+Subhash+Chandra/data=!4m7!3m6!1s0x3bbfb3e8e6ab0105:0x13f7b2511435608!8m2!3d15.2733963!4d73.9555018!16s%2Fg%2F11dxf14wkq!19sChIJBQGr5uizvzsRCFZDESV7PwE?authuser=0&hl=en&rclk=1",
+    "stars": 4.1,
+    "review": 49,
+    "phone": "094211 54009"
   },
   {
-    "title": "Casa Alemao Souza Egipsy",
-    "link": "https://www.google.com/maps/place/Casa+Alemao+Souza+Egipsy/data=!4m7!3m6!1s0x3bbe4df18888f9a7:0xf4840bbdd0d9c5e5!8m2!3d15.1961298!4d73.9547729!16s%2Fg%2F11j0rtzmrz!19sChIJp_mIiPFNvjsR5cXZ0L0LhPQ?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Dr Lloyd Simoes",
-    "link": "https://www.google.com/maps/place/Dr+Lloyd+Simoes/data=!4m7!3m6!1s0x3bbfb1610b28d361:0xaba3a6bfb8812d9c!8m2!3d15.2907139!4d73.9638718!16s%2Fg%2F1261j3pc9!19sChIJYdMoC2GxvzsRnC2BuL-mo6s?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Dr.Dipak kamat",
-    "link": "https://www.google.com/maps/place/Dr.Dipak+kamat/data=!4m7!3m6!1s0x3bbfb3fc00a50c57:0x6b2a54ed66d7a261!8m2!3d15.288372!4d73.9826021!16s%2Fg%2F11l6vbb6sc!19sChIJVwylAPyzvzsRYaLXZu1UKms?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Vaz Dental Clinic",
-    "link": "https://www.google.com/maps/place/Vaz+Dental+Clinic/data=!4m7!3m6!1s0x3bbe4cc255555555:0xbb290071460b41e5!8m2!3d15.1773322!4d73.9684048!16s%2Fg%2F11f5478s24!19sChIJVVVVVcJMvjsR5UELRnEAKbs?authuser=0&hl=en&rclk=1",
-    "stars": 4.0
+    "title": "Dr Sandeep Vengurlekar",
+    "link": "https://www.google.com/maps/place/Dr+Sandeep+Vengurlekar/data=!4m7!3m6!1s0x3bbfb108a2bbc751:0xfbc42704727f39dd!8m2!3d15.2877521!4d73.954914!16s%2Fg%2F11j94wbxcg!19sChIJUce7ogixvzsR3Tl_cgQnxPs?authuser=0&hl=en&rclk=1",
+    "stars": 2.0,
+    "review": 2,
+    "phone": null
   },
   {
     "title": "MotherCare Hospital",
     "link": "https://www.google.com/maps/place/MotherCare+Hospital/data=!4m7!3m6!1s0x3bbfb3d42848c99b:0x40bb0eba99e532fc!8m2!3d15.2816272!4d73.9640925!16s%2Fg%2F1tfg634f!19sChIJm8lIKNSzvzsR_DLlmboOu0A?authuser=0&hl=en&rclk=1",
     "website": "https://mothercaremultispeciality.com/",
-    "stars": 3.9
+    "stars": 3.9,
+    "review": 108,
+    "phone": "083800 14979"
+  },
+  {
+    "title": "Dr. Mahesh Raikar",
+    "link": "https://www.google.com/maps/place/Dr.+Mahesh+Raikar/data=!4m7!3m6!1s0x3bbe4d930963f1f5:0x3e13768e43c1a018!8m2!3d15.1795908!4d73.996415!16s%2Fg%2F11p0jdmvcj!19sChIJ9fFjCZNNvjsRGKDBQ452Ez4?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Dhakankar Clinic",
+    "link": "https://www.google.com/maps/place/Dhakankar+Clinic/data=!4m7!3m6!1s0x3bbfb31498b933dd:0xe1e3a9f52d3e681b!8m2!3d15.2740613!4d73.9537399!16s%2Fg%2F11n094cbwv!19sChIJ3TO5mBSzvzsRG2g-LfWp4-E?authuser=0&hl=en&rclk=1",
+    "website": "https://dhakankarclinic.com/",
+    "stars": 4.6,
+    "review": 24,
+    "phone": "086690 62879"
+  },
+  {
+    "title": "Dr. Sanjay Khope",
+    "link": "https://www.google.com/maps/place/Dr.+Sanjay+Khope/data=!4m7!3m6!1s0x3bbfb327731f3297:0x5e4d71fb9ffcd8b8!8m2!3d15.2746946!4d73.9609634!16s%2Fg%2F11g1_89j5h!19sChIJlzIfcyezvzsRuNj8n_txTV4?authuser=0&hl=en&rclk=1",
+    "website": "http://drsanjaykhope.com/",
+    "stars": 4.7,
+    "review": 12,
+    "phone": "094223 95916"
+  },
+  {
+    "title": "Dr Prabhu Desai Clinic",
+    "link": "https://www.google.com/maps/place/Dr+Prabhu+Desai+Clinic/data=!4m7!3m6!1s0x3bbfb372a54f8d2f:0x903feba47e7c900c!8m2!3d15.2715006!4d73.9790048!16s%2Fg%2F11mw5xl2d6!19sChIJL41PpXKzvzsRDJB8fqTrP5A?authuser=0&hl=en&rclk=1",
+    "stars": 4.5,
+    "review": 10,
+    "phone": null
+  },
+  {
+    "title": "Dr. Sudaiv Nagzarkar - General and Laparoscopic Surgeon",
+    "link": "https://www.google.com/maps/place/Dr.+Sudaiv+Nagzarkar+-+General+and+Laparoscopic+Surgeon/data=!4m7!3m6!1s0x3bbfb3075e829ed3:0xccf559f3b9480170!8m2!3d15.2724094!4d73.9599478!16s%2Fg%2F11qm3fvmk5!19sChIJ056CXgezvzsRcAFIufNZ9cw?authuser=0&hl=en&rclk=1",
+    "website": "http://www.drsudaiv.com/",
+    "stars": 4.7,
+    "review": 25,
+    "phone": "070543 96213"
+  },
+  {
+    "title": "Ayuryogagoa",
+    "link": "https://www.google.com/maps/place/Ayuryogagoa/data=!4m7!3m6!1s0x3bbfb3cbe0ac23d3:0x8c447fbb8bb9125!8m2!3d15.2839593!4d73.9746599!16s%2Fg%2F11s7zrz6kz!19sChIJ0yOs4MuzvzsRJZG7uPtHxAg?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Casa Alemao Souza Egipsy",
+    "link": "https://www.google.com/maps/place/Casa+Alemao+Souza+Egipsy/data=!4m7!3m6!1s0x3bbe4df18888f9a7:0xf4840bbdd0d9c5e5!8m2!3d15.1961298!4d73.9547729!16s%2Fg%2F11j0rtzmrz!19sChIJp_mIiPFNvjsR5cXZ0L0LhPQ?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "MANTRA AYURVEDA CLINIC AND HERBAL PHARMACY",
+    "link": "https://www.google.com/maps/place/MANTRA+AYURVEDA+CLINIC+AND+HERBAL+PHARMACY/data=!4m7!3m6!1s0x3bbfb47354ad657d:0xced99f46feb0461a!8m2!3d15.262394!4d73.9299458!16s%2Fg%2F11hd24xhpy!19sChIJfWWtVHO0vzsRGkaw_kaf2c4?authuser=0&hl=en&rclk=1",
+    "stars": 4.9,
+    "review": 205,
+    "phone": "098238 80578"
   },
   {
     "title": "DR ( Mrs) AURELIA ALBUQUERQUE (GYNAECOLOGIST)",
     "link": "https://www.google.com/maps/place/DR+%28+Mrs%29+AURELIA+ALBUQUERQUE+%28GYNAECOLOGIST%29/data=!4m7!3m6!1s0x3bbfb3c3e2400001:0xf8c9af344a950c8b!8m2!3d15.2706158!4d73.9641219!16s%2Fg%2F11btxjh2dn!19sChIJAQBA4sOzvzsRiwyVSjSvyfg?authuser=0&hl=en&rclk=1",
-    "stars": 4.4
+    "stars": 4.4,
+    "review": 31,
+    "phone": "098504 53004"
+  },
+  {
+    "title": "Dr. Chaitrali Naik's Clinic",
+    "link": "https://www.google.com/maps/place/Dr.+Chaitrali+Naik%27s+Clinic/data=!4m7!3m6!1s0x3bbfb326fe286c07:0x6460cefa8728fb02!8m2!3d15.2772802!4d73.9859317!16s%2Fg%2F11tt8l3b1s!19sChIJB2wo_iazvzsRAvsoh_rOYGQ?authuser=0&hl=en&rclk=1",
+    "stars": 4.8,
+    "review": 13,
+    "phone": "088302 72506"
+  },
+  {
+    "title": "Dr Edgar Bosco Vas , Menezes Bldg",
+    "link": "https://www.google.com/maps/place/Dr+Edgar+Bosco+Vas+,+Menezes+Bldg/data=!4m7!3m6!1s0x3bbfb3e7f26b5c07:0x940654876994ffd8!8m2!3d15.2771148!4d73.9588297!16s%2Fg%2F11bwh5jj9t!19sChIJB1xr8uezvzsR2P-UaYdUBpQ?authuser=0&hl=en&rclk=1",
+    "stars": 4.1,
+    "review": 15,
+    "phone": "0832 270 1210"
+  },
+  {
+    "title": "Dr Chrisvia Fernandes",
+    "link": "https://www.google.com/maps/place/Dr+Chrisvia+Fernandes/data=!4m7!3m6!1s0x3bbfb1b63f3a31a3:0xbc2ebbb088fd94c8!8m2!3d15.2973234!4d73.9604738!16s%2Fg%2F11fpjwb_l2!19sChIJozE6P7axvzsRyJT9iLC7Lrw?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "Dr. Zareen Shaik (B.H.M.S)-Goa",
     "link": "https://www.google.com/maps/place/Dr.+Zareen+Shaik+%28B.H.M.S%29-Goa/data=!4m7!3m6!1s0x3bbfb3f307f2e659:0xbe78b86c5adb6023!8m2!3d15.2714602!4d73.9616062!16s%2Fg%2F11sn_3p93k!19sChIJWebyB_OzvzsRI2DbWmy4eL4?authuser=0&hl=en&rclk=1",
     "website": "https://drive.google.com/drive/folders/1poDAo1UD-4NqB8nYmW_lU7TX-FmqkyXq",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 25,
+    "phone": "074101 84183"
   },
   {
     "title": "Dr A P Bandodkar Pain Healing Center",
     "link": "https://www.google.com/maps/place/Dr+A+P+Bandodkar+Pain+Healing+Center/data=!4m7!3m6!1s0x3be7c81e94a31397:0x45f030b0f5cf614d!8m2!3d15.2723799!4d73.9626623!16s%2Fg%2F1tdckdsg!19sChIJlxOjlB7I5zsRTWHP9bAw8EU?authuser=0&hl=en&rclk=1",
     "website": "http://www.drapbandodkar.com/index.html",
-    "stars": 4.6
-  },
-  {
-    "title": "Dr Sandeep Vengurlekar",
-    "link": "https://www.google.com/maps/place/Dr+Sandeep+Vengurlekar/data=!4m7!3m6!1s0x3bbfb108a2bbc751:0xfbc42704727f39dd!8m2!3d15.2877521!4d73.954914!16s%2Fg%2F11j94wbxcg!19sChIJUce7ogixvzsR3Tl_cgQnxPs?authuser=0&hl=en&rclk=1",
-    "stars": 2.0
+    "stars": 4.6,
+    "review": 20,
+    "phone": "098220 57943"
   },
   {
     "title": "VITANOVA Homeopathic Clinics-[Margao]",
     "link": "https://www.google.com/maps/place/VITANOVA+Homeopathic+Clinics-%5BMargao%5D/data=!4m7!3m6!1s0x3bbfb3e89711824b:0x401e1a8814a6af!8m2!3d15.2747256!4d73.955133!16s%2Fg%2F1tdk__xs!19sChIJS4IRl-izvzsRr6YUiBoeQAA?authuser=0&hl=en&rclk=1",
     "website": "http://www.vitanovaclinics.com/",
-    "stars": 4.6
-  },
-  {
-    "title": "Doctor Smile",
-    "link": "https://www.google.com/maps/place/Doctor+Smile/data=!4m7!3m6!1s0x3bbfb30bc1c7705d:0x89fcbfcc768942d0!8m2!3d15.2739329!4d73.9590348!16s%2Fg%2F11sppc0ltm!19sChIJXXDHwQuzvzsR0EKJdsy__Ik?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Gracias Maternity Hospital",
-    "link": "https://www.google.com/maps/place/Gracias+Maternity+Hospital/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xf366bbcf0e22ed27!8m2!3d15.2737488!4d73.9566652!16s%2Fg%2F1td2sbgk!19sChIJp6hDwemzvzsRJ-0iDs-7ZvM?authuser=0&hl=en&rclk=1",
-    "website": "http://graciashospital.com/",
-    "stars": 4.7
-  },
-  {
-    "title": "Dr. Chaitrali Naik's Clinic",
-    "link": "https://www.google.com/maps/place/Dr.+Chaitrali+Naik%27s+Clinic/data=!4m7!3m6!1s0x3bbfb326fe286c07:0x6460cefa8728fb02!8m2!3d15.2772802!4d73.9859317!16s%2Fg%2F11tt8l3b1s!19sChIJB2wo_iazvzsRAvsoh_rOYGQ?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
-  },
-  {
-    "title": "Dr. Rakhi Ghodge",
-    "link": "https://www.google.com/maps/place/Dr.+Rakhi+Ghodge/data=!4m7!3m6!1s0x3bbfb236ef0e687f:0x6868f9bdaee6c085!8m2!3d15.2707162!4d73.991045!16s%2Fg%2F11csqkyhh2!19sChIJf2gO7zayvzsRhcDmrr35aGg?authuser=0&hl=en&rclk=1",
-    "stars": 3.3
-  },
-  {
-    "title": "Dr Edgar Bosco Vas , Menezes Bldg",
-    "link": "https://www.google.com/maps/place/Dr+Edgar+Bosco+Vas+,+Menezes+Bldg/data=!4m7!3m6!1s0x3bbfb3e7f26b5c07:0x940654876994ffd8!8m2!3d15.2771148!4d73.9588297!16s%2Fg%2F11bwh5jj9t!19sChIJB1xr8uezvzsR2P-UaYdUBpQ?authuser=0&hl=en&rclk=1",
-    "stars": 4.1
-  },
-  {
-    "title": "Ayuryogagoa",
-    "link": "https://www.google.com/maps/place/Ayuryogagoa/data=!4m7!3m6!1s0x3bbfb3cbe0ac23d3:0x8c447fbb8bb9125!8m2!3d15.2839593!4d73.9746599!16s%2Fg%2F11s7zrz6kz!19sChIJ0yOs4MuzvzsRJZG7uPtHxAg?authuser=0&hl=en&rclk=1"
+    "stars": 4.6,
+    "review": 11,
+    "phone": "083080 37773"
   },
   {
     "title": "Dr. Jagruti Nadkarni",
     "link": "https://www.google.com/maps/place/Dr.+Jagruti+Nadkarni/data=!4m7!3m6!1s0x3bbfb3d3d445327d:0x7e727e33f17882c9!8m2!3d15.280372!4d73.977364!16s%2Fg%2F11bw5_rdrb!19sChIJfTJF1NOzvzsRyYJ48TN-cn4?authuser=0&hl=en&rclk=1",
     "website": "http://dr-jagruti-nadkarni.business.site/",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 20,
+    "phone": "084088 12951"
   },
   {
-    "title": "Dr Amulya Kudchadkar clinic",
-    "link": "https://www.google.com/maps/place/Dr+Amulya+Kudchadkar+clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xeab47b6da2448849!8m2!3d15.2744719!4d73.9590137!16s%2Fg%2F1trqfnlc!19sChIJp6hDwemzvzsRSYhEom17tOo?authuser=0&hl=en&rclk=1",
-    "stars": 3.6
+    "title": "Dr. Rakhi Ghodge",
+    "link": "https://www.google.com/maps/place/Dr.+Rakhi+Ghodge/data=!4m7!3m6!1s0x3bbfb236ef0e687f:0x6868f9bdaee6c085!8m2!3d15.2707162!4d73.991045!16s%2Fg%2F11csqkyhh2!19sChIJf2gO7zayvzsRhcDmrr35aGg?authuser=0&hl=en&rclk=1",
+    "stars": 3.3,
+    "review": 48,
+    "phone": null
   },
   {
-    "title": "Ghodekar Clinical Lab",
-    "link": "https://www.google.com/maps/place/Ghodekar+Clinical+Lab/data=!4m7!3m6!1s0x3bbe4d3cf66227c7:0xed010676104a639!8m2!3d15.1804094!4d73.9976171!16s%2Fg%2F11g6ml346k!19sChIJxydi9jxNvjsROaYEYWcQ0A4?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "title": "Vaz Dental Clinic",
+    "link": "https://www.google.com/maps/place/Vaz+Dental+Clinic/data=!4m7!3m6!1s0x3bbe4cc255555555:0xbb290071460b41e5!8m2!3d15.1773322!4d73.9684048!16s%2Fg%2F11f5478s24!19sChIJVVVVVcJMvjsR5UELRnEAKbs?authuser=0&hl=en&rclk=1",
+    "stars": 4.0,
+    "review": 4,
+    "phone": null
   },
   {
-    "title": "Dr Chrisvia Fernandes",
-    "link": "https://www.google.com/maps/place/Dr+Chrisvia+Fernandes/data=!4m7!3m6!1s0x3bbfb1b63f3a31a3:0xbc2ebbb088fd94c8!8m2!3d15.2973234!4d73.9604738!16s%2Fg%2F11fpjwb_l2!19sChIJozE6P7axvzsRyJT9iLC7Lrw?authuser=0&hl=en&rclk=1"
+    "title": "Doctor Smile",
+    "link": "https://www.google.com/maps/place/Doctor+Smile/data=!4m7!3m6!1s0x3bbfb30bc1c7705d:0x89fcbfcc768942d0!8m2!3d15.2739329!4d73.9590348!16s%2Fg%2F11sppc0ltm!19sChIJXXDHwQuzvzsR0EKJdsy__Ik?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 5,
+    "phone": "077679 74077"
+  },
+  {
+    "title": "Gracias Maternity Hospital",
+    "link": "https://www.google.com/maps/place/Gracias+Maternity+Hospital/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xf366bbcf0e22ed27!8m2!3d15.2737488!4d73.9566652!16s%2Fg%2F1td2sbgk!19sChIJp6hDwemzvzsRJ-0iDs-7ZvM?authuser=0&hl=en&rclk=1",
+    "website": "http://graciashospital.com/",
+    "stars": 4.7,
+    "review": 118,
+    "phone": "077200 49092"
   },
   {
     "title": "Dr. Ana Sharlen Teles skin specialist",
     "link": "https://www.google.com/maps/place/Dr.+Ana+Sharlen+Teles+skin+specialist/data=!4m7!3m6!1s0x3bbfb3daccd8bc65:0xe2d3d9a1fbf78627!8m2!3d15.2768562!4d73.9564054!16s%2Fg%2F11j91hfl_g!19sChIJZbzYzNqzvzsRJ4b3-6HZ0-I?authuser=0&hl=en&rclk=1",
     "website": "http://dranateles.com/",
-    "stars": 4.6
+    "stars": 4.6,
+    "review": 14,
+    "phone": "097663 83264"
   },
   {
-    "title": "Dr Madhuja Sawaiker",
-    "link": "https://www.google.com/maps/place/Dr+Madhuja+Sawaiker/data=!4m7!3m6!1s0x3bbfb3c6c43a28db:0xd1da3f640be3ead2!8m2!3d15.2689917!4d73.9663449!16s%2Fg%2F11g87jgsf4!19sChIJ2yg6xMazvzsR0urjC2Q_2tE?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Kakode's Skin Clinic",
-    "link": "https://www.google.com/maps/place/Kakode%27s+Skin+Clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x1eeaf8438afa3d3d!8m2!3d15.2726653!4d73.9613117!16s%2Fg%2F1tlc6h_2!19sChIJp6hDwemzvzsRPT36ikP46h4?authuser=0&hl=en&rclk=1",
-    "stars": 4.1
+    "title": "Dr Amulya Kudchadkar clinic",
+    "link": "https://www.google.com/maps/place/Dr+Amulya+Kudchadkar+clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xeab47b6da2448849!8m2!3d15.2744719!4d73.9590137!16s%2Fg%2F1trqfnlc!19sChIJp6hDwemzvzsRSYhEom17tOo?authuser=0&hl=en&rclk=1",
+    "stars": 3.6,
+    "review": 9,
+    "phone": "094224 50501"
   },
   {
     "title": "Dr Edwin M. Araújo",
     "link": "https://www.google.com/maps/place/Dr+Edwin+M.+Ara%C3%BAjo/data=!4m7!3m6!1s0x3bbfb3087d2885a7:0xca60410dfe93bbc6!8m2!3d15.2712787!4d73.9610117!16s%2Fg%2F11rq3yb8j1!19sChIJp4UofQizvzsRxruT_g1BYMo?authuser=0&hl=en&rclk=1",
-    "stars": 3.4
-  },
-  {
-    "title": "Dr Damodar Ramnath Lotlikar",
-    "link": "https://www.google.com/maps/place/Dr+Damodar+Ramnath+Lotlikar/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xd52c402900af55ee!8m2!3d15.2724446!4d73.9599072!16s%2Fg%2F1tczntgs!19sChIJp6hDwemzvzsR7lWvAClALNU?authuser=0&hl=en&rclk=1",
-    "stars": 3.9
+    "stars": 3.4,
+    "review": 16,
+    "phone": null
   },
   {
     "title": "Sheldekar Dr Vishnu V",
     "link": "https://www.google.com/maps/place/Sheldekar+Dr+Vishnu+V/data=!4m7!3m6!1s0x3bbfac64f093064d:0x6c1ec2458b97895e!8m2!3d15.2637674!4d74.1066454!16s%2Fg%2F1tk8m0rg!19sChIJTQaT8GSsvzsRXomXi0XCHmw?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "stars": 4.3,
+    "review": 6,
+    "phone": "0832 265 1060"
   },
   {
-    "title": "Dr Milagres A Fernandes Clinic",
-    "link": "https://www.google.com/maps/place/Dr+Milagres+A+Fernandes+Clinic/data=!4m7!3m6!1s0x3bbfad26ffffffff:0x67691d44f6611fed!8m2!3d15.2190577!4d74.0740729!16s%2Fg%2F1tk_mqs1!19sChIJ_____yatvzsR7R9h9kQdaWc?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
-  },
-  {
-    "title": "Dr Sawani's Women's Health Clinic",
-    "link": "https://www.google.com/maps/place/Dr+Sawani%27s+Women%27s+Health+Clinic/data=!4m7!3m6!1s0x3bbfb3df1ea9f183:0xd1eb4149516a37e6!8m2!3d15.2722509!4d73.9554673!16s%2Fg%2F11ptxxtymr!19sChIJg_GpHt-zvzsR5jdqUUlB69E?authuser=0&hl=en&rclk=1",
-    "stars": 4.8
+    "title": "Dr. Amit Kudchadkar",
+    "link": "https://www.google.com/maps/place/Dr.+Amit+Kudchadkar/data=!4m7!3m6!1s0x3bbfb77e2235ce8f:0x1ef3821e207a9f1c!8m2!3d15.2851463!4d73.9204892!16s%2Fg%2F11vjvnkwfj!19sChIJj841In63vzsRHJ96IB6C8x4?authuser=0&hl=en&rclk=1",
+    "phone": null
   },
   {
     "title": "D.P. Clinic",
     "link": "https://www.google.com/maps/place/D.P.+Clinic/data=!4m7!3m6!1s0x3bbfb1bb5174246f:0x30411ee4f641343d!8m2!3d15.2941272!4d73.9660805!16s%2Fg%2F11l2m2sxns!19sChIJbyR0UbuxvzsRPTRB9uQeQTA?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 11,
+    "phone": null
   },
   {
-    "title": "Dr Deepak Lolitkar",
-    "link": "https://www.google.com/maps/place/Dr+Deepak+Lolitkar/data=!4m7!3m6!1s0x3bbfad26ffffffff:0x1eb6f247eb403eab!8m2!3d15.2190577!4d74.0740729!16s%2Fg%2F1tgdl_zh!19sChIJ_____yatvzsRqz5A60fyth4?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "title": "Dr Madhuja Sawaiker",
+    "link": "https://www.google.com/maps/place/Dr+Madhuja+Sawaiker/data=!4m7!3m6!1s0x3bbfb3c6c43a28db:0xd1da3f640be3ead2!8m2!3d15.2689917!4d73.9663449!16s%2Fg%2F11g87jgsf4!19sChIJ2yg6xMazvzsR0urjC2Q_2tE?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 5,
+    "phone": "098234 92486"
+  },
+  {
+    "title": "Kakode's Skin Clinic",
+    "link": "https://www.google.com/maps/place/Kakode%27s+Skin+Clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x1eeaf8438afa3d3d!8m2!3d15.2726653!4d73.9613117!16s%2Fg%2F1tlc6h_2!19sChIJp6hDwemzvzsRPT36ikP46h4?authuser=0&hl=en&rclk=1",
+    "stars": 4.1,
+    "review": 65,
+    "phone": "0832 273 6252"
+  },
+  {
+    "title": "Dr Damodar Ramnath Lotlikar",
+    "link": "https://www.google.com/maps/place/Dr+Damodar+Ramnath+Lotlikar/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xd52c402900af55ee!8m2!3d15.2724446!4d73.9599072!16s%2Fg%2F1tczntgs!19sChIJp6hDwemzvzsR7lWvAClALNU?authuser=0&hl=en&rclk=1",
+    "stars": 3.9,
+    "review": 23,
+    "phone": "0832 270 2199"
+  },
+  {
+    "title": "Dr.Haresh Sahijwala`s Clinic",
+    "link": "https://www.google.com/maps/place/Dr.Haresh+Sahijwala%60s+Clinic/data=!4m7!3m6!1s0x3bbfb142084c9f01:0x7301c59b2c777808!8m2!3d15.303499!4d73.9593784!16s%2Fg%2F11dyz9yw52!19sChIJAZ9MCEKxvzsRCHh3LJvFAXM?authuser=0&hl=en&rclk=1",
+    "stars": 1.0,
+    "review": 1,
+    "phone": "0832 274 1453"
   },
   {
     "title": "DR MADHAVI BORKAR'S AYURYOGAGOA",
     "link": "https://www.google.com/maps/place/DR+MADHAVI+BORKAR%27S+AYURYOGAGOA/data=!4m7!3m6!1s0x3bbfb3238157cacf:0xe6a4334d0e120992!8m2!3d15.2838353!4d73.974681!16s%2Fg%2F11td43hh5h!19sChIJz8pXgSOzvzsRkgkSDk0zpOY?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "stars": 5.0,
+    "review": 7,
+    "phone": null
   },
   {
-    "title": "Dr. Mahesh Raikar's Pathology Laboratory",
-    "link": "https://www.google.com/maps/place/Dr.+Mahesh+Raikar%27s+Pathology+Laboratory/data=!4m7!3m6!1s0x3bbfb31fcfc4dc1b:0xaf61b1503ee4c260!8m2!3d15.2100946!4d73.9776421!16s%2Fg%2F11rd9gs6sy!19sChIJG9zEzx-zvzsRYMLkPlCxYa8?authuser=0&hl=en&rclk=1"
+    "title": "Dr. Shayne Fernandes",
+    "link": "https://www.google.com/maps/place/Dr.+Shayne+Fernandes/data=!4m7!3m6!1s0x3bbfb155fa24f7b3:0x31df9d24a5821775!8m2!3d15.2916521!4d73.9638826!16s%2Fg%2F11fmxjd8x2!19sChIJs_ck-lWxvzsRdReCpSSd3zE?authuser=0&hl=en&rclk=1",
+    "website": "https://dr-shayne-fernandes.ueniweb.com/",
+    "phone": "070667 44396"
   },
   {
-    "title": "Dr. Antonio Figueiredo's Clinic",
-    "link": "https://www.google.com/maps/place/Dr.+Antonio+Figueiredo%27s+Clinic/data=!4m7!3m6!1s0x3bbfabffffffffff:0x45b66c396669ef98!8m2!3d15.2724658!4d73.9625194!16s%2Fg%2F11c73fq_wc!19sChIJ______-rvzsRmO9pZjlstkU?authuser=0&hl=en&rclk=1",
-    "stars": 4.9
+    "title": "Ghodekar Clinical Lab",
+    "link": "https://www.google.com/maps/place/Ghodekar+Clinical+Lab/data=!4m7!3m6!1s0x3bbe4d3cf66227c7:0xed010676104a639!8m2!3d15.1804094!4d73.9976171!16s%2Fg%2F11g6ml346k!19sChIJxydi9jxNvjsROaYEYWcQ0A4?authuser=0&hl=en&rclk=1",
+    "stars": 4.3,
+    "review": 4,
+    "phone": "0832 286 5181"
+  },
+  {
+    "title": "Dr Sawani's Women's Health Clinic",
+    "link": "https://www.google.com/maps/place/Dr+Sawani%27s+Women%27s+Health+Clinic/data=!4m7!3m6!1s0x3bbfb3df1ea9f183:0xd1eb4149516a37e6!8m2!3d15.2722509!4d73.9554673!16s%2Fg%2F11ptxxtymr!19sChIJg_GpHt-zvzsR5jdqUUlB69E?authuser=0&hl=en&rclk=1",
+    "stars": 4.8,
+    "review": 32,
+    "phone": "092090 82819"
   },
   {
     "title": "Dr Ashok Borkar",
     "link": "https://www.google.com/maps/place/Dr+Ashok+Borkar/data=!4m7!3m6!1s0x3bbfb15edf67f713:0x20adb6e56dcdc33a!8m2!3d15.2899755!4d73.9552295!16s%2Fg%2F1ptx8lrjk!19sChIJE_dn316xvzsROsPNbeW2rSA?authuser=0&hl=en&rclk=1",
     "website": "http://borkar.business.site/",
-    "stars": 4.6
+    "stars": 4.6,
+    "review": 12,
+    "phone": "090116 99073"
   },
   {
-    "title": "Dr. Amit Kudchadkar",
-    "link": "https://www.google.com/maps/place/Dr.+Amit+Kudchadkar/data=!4m7!3m6!1s0x3bbfb77e2235ce8f:0x1ef3821e207a9f1c!8m2!3d15.2851463!4d73.9204892!16s%2Fg%2F11vjvnkwfj!19sChIJj841In63vzsRHJ96IB6C8x4?authuser=0&hl=en&rclk=1"
+    "title": "Babu Medicines",
+    "link": "https://www.google.com/maps/place/Babu+Medicines/data=!4m7!3m6!1s0x3bbe4953517541e9:0x66ad51cecc5b2f7b!8m2!3d15.0977711!4d73.9354608!16s%2Fg%2F11c83wr042!19sChIJ6UF1UVNJvjsRey9bzM5RrWY?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Dr. Antonio Figueiredo's Clinic",
+    "link": "https://www.google.com/maps/place/Dr.+Antonio+Figueiredo%27s+Clinic/data=!4m7!3m6!1s0x3bbfabffffffffff:0x45b66c396669ef98!8m2!3d15.2724658!4d73.9625194!16s%2Fg%2F11c73fq_wc!19sChIJ______-rvzsRmO9pZjlstkU?authuser=0&hl=en&rclk=1",
+    "stars": 4.9,
+    "review": 151,
+    "phone": "083800 97005"
   },
   {
     "title": "Shri Fernandes Dr Viraia (Shri)",
-    "link": "https://www.google.com/maps/place/Shri+Fernandes+Dr+Viraia+%28Shri%29/data=!4m7!3m6!1s0x3bbe4d471aaaaaab:0xf5fefb79cd30f3d9!8m2!3d15.1852398!4d74.0086671!16s%2Fg%2F1tv3m3sv!19sChIJq6qqGkdNvjsR2fMwzXn7_vU?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Shri+Fernandes+Dr+Viraia+%28Shri%29/data=!4m7!3m6!1s0x3bbe4d471aaaaaab:0xf5fefb79cd30f3d9!8m2!3d15.1852398!4d74.0086671!16s%2Fg%2F1tv3m3sv!19sChIJq6qqGkdNvjsR2fMwzXn7_vU?authuser=0&hl=en&rclk=1",
+    "phone": "0832 286 5098"
+  },
+  {
+    "title": "Dr. Mahesh Raikar's Pathology Laboratory",
+    "link": "https://www.google.com/maps/place/Dr.+Mahesh+Raikar%27s+Pathology+Laboratory/data=!4m7!3m6!1s0x3bbfb31fcfc4dc1b:0xaf61b1503ee4c260!8m2!3d15.2100946!4d73.9776421!16s%2Fg%2F11rd9gs6sy!19sChIJG9zEzx-zvzsRYMLkPlCxYa8?authuser=0&hl=en&rclk=1",
+    "phone": null
+  },
+  {
+    "title": "Dr Milagres A Fernandes Clinic",
+    "link": "https://www.google.com/maps/place/Dr+Milagres+A+Fernandes+Clinic/data=!4m7!3m6!1s0x3bbfad26ffffffff:0x67691d44f6611fed!8m2!3d15.2190577!4d74.0740729!16s%2Fg%2F1tk_mqs1!19sChIJ_____yatvzsR7R9h9kQdaWc?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 2,
+    "phone": "0832 266 2269"
+  },
+  {
+    "title": "Dr.Albino D’Silva",
+    "link": "https://www.google.com/maps/place/Dr.Albino+D%E2%80%99Silva/data=!4m7!3m6!1s0x3bbfb6ea007d6985:0x7249724103ade9d!8m2!3d15.3120976!4d73.912399!16s%2Fg%2F11gghj06bz!19sChIJhWl9AOq2vzsRnd46ECSXJAc?authuser=0&hl=en&rclk=1",
+    "stars": 3.3,
+    "review": 3,
+    "phone": null
+  },
+  {
+    "title": "Amala V Kamat Clinic",
+    "link": "https://www.google.com/maps/place/Amala+V+Kamat+Clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x7a2a31069a38cc7e!8m2!3d15.2742265!4d73.9588052!16s%2Fg%2F1w2ys9vv!19sChIJp6hDwemzvzsRfsw4mgYxKno?authuser=0&hl=en&rclk=1",
+    "stars": 1.9,
+    "review": 9,
+    "phone": null
   },
   {
     "title": "Dr Batra’s Homeopathy Clinic",
     "link": "https://www.google.com/maps/place/Dr+Batra%E2%80%99s+Homeopathy+Clinic/data=!4m7!3m6!1s0x3bbfb3c3b263fa05:0x5fd700df88b6afc!8m2!3d15.2736721!4d73.962394!16s%2Fg%2F1260wpcv2!19sChIJBfpjssOzvzsR_GqL-A1w_QU?authuser=0&hl=en&rclk=1",
     "website": "https://clinics.drbatras.com/homeopathy-clinic-Pajifond-Margao-93375/Home?utm_source=locator&utm_medium=googleplaces",
-    "stars": 4.8
+    "stars": 4.8,
+    "review": 247,
+    "phone": "077386 27108"
   },
   {
-    "title": "Dr.Haresh Sahijwala`s Clinic",
-    "link": "https://www.google.com/maps/place/Dr.Haresh+Sahijwala%60s+Clinic/data=!4m7!3m6!1s0x3bbfb142084c9f01:0x7301c59b2c777808!8m2!3d15.303499!4d73.9593784!16s%2Fg%2F11dyz9yw52!19sChIJAZ9MCEKxvzsRCHh3LJvFAXM?authuser=0&hl=en&rclk=1",
-    "stars": 1.0
+    "title": "Dr Deepak Lolitkar",
+    "link": "https://www.google.com/maps/place/Dr+Deepak+Lolitkar/data=!4m7!3m6!1s0x3bbfad26ffffffff:0x1eb6f247eb403eab!8m2!3d15.2190577!4d74.0740729!16s%2Fg%2F1tgdl_zh!19sChIJ_____yatvzsRqz5A60fyth4?authuser=0&hl=en&rclk=1",
+    "stars": 5.0,
+    "review": 1,
+    "phone": "0832 266 3165"
   },
   {
-    "title": "Dr. Shayne Fernandes",
-    "link": "https://www.google.com/maps/place/Dr.+Shayne+Fernandes/data=!4m7!3m6!1s0x3bbfb155fa24f7b3:0x31df9d24a5821775!8m2!3d15.2916521!4d73.9638826!16s%2Fg%2F11fmxjd8x2!19sChIJs_ck-lWxvzsRdReCpSSd3zE?authuser=0&hl=en&rclk=1",
-    "website": "https://dr-shayne-fernandes.ueniweb.com/"
+    "title": "BONE AND JOINT CARE, Dr. Ameya Velingker",
+    "link": "https://www.google.com/maps/place/BONE+AND+JOINT+CARE,+Dr.+Ameya+Velingker/data=!4m7!3m6!1s0x3bbfb3d542700001:0xf521f02eedfbc6a7!8m2!3d15.2886203!4d73.9816066!16s%2Fg%2F11bwkdr1z2!19sChIJAQBwQtWzvzsRp8b77S7wIfU?authuser=0&hl=en&rclk=1",
+    "website": "http://boneandjointcaregoa.com/",
+    "stars": 4.1,
+    "review": 31,
+    "phone": "070200 01910"
   },
   {
-    "title": "Piles Clinic. Mondal Herbal Life",
-    "link": "https://www.google.com/maps/place/Piles+Clinic.+Mondal+Herbal+Life/data=!4m7!3m6!1s0x3bbe4dc69af53191:0xd3f72355890c130b!8m2!3d15.1822824!4d73.9976922!16s%2Fg%2F11h0_p_dm6!19sChIJkTH1msZNvjsRCxMMiVUj99M?authuser=0&hl=en&rclk=1",
-    "website": "https://piles-cure-centre-mondal-hearbal-life.business.site/?utm_source=gmb&utm_medium=referral",
-    "stars": 3.0
-  },
-  {
-    "title": "Amala V Kamat Clinic",
-    "link": "https://www.google.com/maps/place/Amala+V+Kamat+Clinic/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0x7a2a31069a38cc7e!8m2!3d15.2742265!4d73.9588052!16s%2Fg%2F1w2ys9vv!19sChIJp6hDwemzvzsRfsw4mgYxKno?authuser=0&hl=en&rclk=1",
-    "stars": 1.9
-  },
-  {
-    "title": "KIBZ AUDIO",
-    "link": "https://www.google.com/maps/place/KIBZ+AUDIO/data=!4m7!3m6!1s0x3bbe4d3ef832682b:0xd2a13ec2f8d266c4!8m2!3d15.1799774!4d74.002621!16s%2Fg%2F11gblpm3q1!19sChIJK2gy-D5NvjsRxGbS-MI-odI?authuser=0&hl=en&rclk=1",
-    "stars": 5.0
+    "title": "Aster Hospital",
+    "link": "https://www.google.com/maps/place/Aster+Hospital/data=!4m7!3m6!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt!19sChIJw2-mxt2zvzsRQPm_kxTo-nY?authuser=0&hl=en&rclk=1",
+    "stars": 4.2,
+    "review": 133,
+    "phone": "0832 270 5001"
   },
   {
     "title": "Dr Chetana Naik Ear Nose Throat & Vertigo Clinic",
     "link": "https://www.google.com/maps/place/Dr+Chetana+Naik+Ear+Nose+Throat+%26+Vertigo+Clinic/data=!4m7!3m6!1s0x3bbfb3013cbd7031:0x16ba2834cd585ab5!8m2!3d15.2749311!4d73.9631054!16s%2Fg%2F11ff4xwfsw!19sChIJMXC9PAGzvzsRtVpYzTQouhY?authuser=0&hl=en&rclk=1",
     "website": "https://ear-nose-throat-vertigo-clinic.business.site/?utm_source=gmb&utm_medium=referral",
-    "stars": 4.6
-  },
-  {
-    "title": "Babu Medicines",
-    "link": "https://www.google.com/maps/place/Babu+Medicines/data=!4m7!3m6!1s0x3bbe4953517541e9:0x66ad51cecc5b2f7b!8m2!3d15.0977711!4d73.9354608!16s%2Fg%2F11c83wr042!19sChIJ6UF1UVNJvjsRey9bzM5RrWY?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "title": "Siddhesh Talaulikar Clinic",
-    "link": "https://www.google.com/maps/place/Siddhesh+Talaulikar+Clinic/data=!4m7!3m6!1s0x3bbfb3ab6a866949:0xb226f81507822f5b!8m2!3d15.2736143!4d73.9555692!16s%2Fg%2F11hz2ll7s9!19sChIJSWmGaquzvzsRWy-CBxX4JrI?authuser=0&hl=en&rclk=1",
-    "stars": 4.3
+    "stars": 4.6,
+    "review": 90,
+    "phone": "082080 69433"
   }
 ]
