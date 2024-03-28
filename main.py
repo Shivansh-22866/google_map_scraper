@@ -27,4 +27,38 @@ try:
 except Exception:
     pass
 
+scrollable_div = driver.find_element(By.CSS_SELECTOR, 'div[role="feed"]')
+driver.execute_script("""
+    var scrollableDiv = arguments[0];
+    function scrollWithinElement(scrollableDiv) {
+        return new Promise((resolve, reject) => {
+            var totalHeight = 0;
+            var distance = 1000;
+            var scrollDelay = 3000;
+            
+            var timer = setInterval(() => {
+                var scrollHeightBefore = scrollableDiv.scrollHeight;
+                scrollableDiv.scrollBy(0, distance);
+                totalHeight += distance;
+                
+                if(totalHeight > scrollHeightBefore) {
+                    totalHeight = 0;
+                    setTimeout(() => {
+                        var scrollHeightAfter = scrollableDiv.scrollHeight;
+                        if(scrollHeightAfter > scrollHeightBefore) {
+                            return;
+                        }
+                        else {
+                            clearInterval(timer);
+                            resolve();
+                        }
+                    }, scrollDelay)
+                }
+            }, 200)
+        })
+    }   
+    return scrollWithinElement(scrollableDiv);           
+""", scrollable_div)
+
+
 time.sleep(50)
