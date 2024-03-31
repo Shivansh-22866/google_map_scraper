@@ -19,7 +19,7 @@ driver = webdriver.Firefox(
 )
 
 try:
-    keyword = "doctors"
+    keyword = "arthritis specialist"
 
     driver.get(f"https://www.google.com/maps/search/{keyword}")
 
@@ -30,38 +30,62 @@ try:
 
     scrollable_div = driver.find_element(By.CSS_SELECTOR, 'div[role="feed"]')
     driver.execute_script("""
-        var scrollableDiv = arguments[0];
-        function scrollWithinElement(scrollableDiv) {
-            return new Promise((resolve, reject) => {
-                var totalHeight = 0;
-                var distance = 1000;
-                var scrollDelay = 3000;
-                
-                var timer = setInterval(() => {
-                    var scrollHeightBefore = scrollableDiv.scrollHeight;
-                    scrollableDiv.scrollBy(0, distance);
-                    totalHeight += distance;
-                    
-                    if(totalHeight > scrollHeightBefore) {
-                        totalHeight = 0;
-                        setTimeout(() => {
-                            var scrollHeightAfter = scrollableDiv.scrollHeight;
-                            if(scrollHeightAfter > scrollHeightBefore) {
-                                return;
-                            }
-                            else {
-                                clearInterval(timer);
-                                resolve();
-                            }
-                        }, scrollDelay)
-                    }
-                }, 200)
-            })
-        }   
-        return scrollWithinElement(scrollableDiv);           
-    """, scrollable_div)
+    var scrollableDiv = arguments[0];
+    function scrollAndClickWithinElement(scrollableDiv) {
+        return new Promise((resolve, reject) => {
+            var totalHeight = 0;
+            var distance = 1000;
+            var scrollDelay = 3000;
+
+            var timer = setInterval(() => {
+                var scrollHeightBefore = scrollableDiv.scrollHeight;
+                scrollableDiv.scrollBy(0, distance);
+                totalHeight += distance;
+
+                if (totalHeight > scrollHeightBefore) {
+                    totalHeight = 0;
+                    setTimeout(() => {
+                        var scrollHeightAfter = scrollableDiv.scrollHeight;
+                        if (scrollHeightAfter > scrollHeightBefore) {
+                            return;
+                        } else {
+                            clearInterval(timer);
+                            // Get all divs with the attribute 'div[role="feed"] > div > div[jsaction]'
+                            var divsToClick = document.querySelectorAll('div[role="feed"] > div > div[jsaction] > a');
+                            console.log('Number of divs found:', divsToClick.length);
+                            // Click all divs with the attribute 'div[role="feed"] > div > div[jsaction]' one by one
+                            clickDivsOneByOne(divsToClick, 0);
+                        }
+                    }, scrollDelay);
+                }
+            }, 200);
+        });
+    }
+
+    function clickDivsOneByOne(divs, index) {
+        if (index < divs.length) {
+            divs[index].click();
+            setTimeout(() => {
+                clickDivsOneByOne(divs, index + 1);
+            }, 500); // Delay between clicks (adjust as needed)
+        } else {
+            resolve(); // Resolve the promise after clicking all divs
+        }
+    }
+
+    return scrollAndClickWithinElement(scrollableDiv);
+""", scrollable_div)
+
+
+
 
     items = driver.find_elements(By.CSS_SELECTOR, 'div[role="feed"] > div > div[jsaction]')
+    cards = driver.find_elements(By.CSS_SELECTOR, 'div[role="feed"] > div > div[jsaction] > a')
+    
+    print(cards.count())
+    
+    for card in cards:
+        card.click()
 
     results = []
 
@@ -84,12 +108,14 @@ try:
             pass
         
         try:
-            review_text = item.find_element(By.CSS_SELECTOR, '.fontBodyMedium > span[role="img"]').get_attribute('aria-label')
+            review_text_element = item.find_element(By.CSS_SELECTOR, '.fontBodyMedium > span[role="img"]')
+            review_text = review_text_element.get_attribute('aria-label')
             review_numbers = [float(piece.replace(",", ".")) for piece in review_text.split(" ") if piece.replace(",", ".").replace(".", "", 1).isdigit()]
             
             if review_numbers:
                 data['stars'] = review_numbers[0]
-                data['review'] = int(review_numbers[1]) if len(review_numbers) > 1 else 0
+                data['review_count'] = int(review_numbers[1]) if len(review_numbers) > 1 else 0
+                data['review_text'] = review_text_element.text  # Add review text
         except Exception:
             pass
         
@@ -106,11 +132,11 @@ try:
         except Exception:
             pass
         
-        if(data.get('title')):
+        if data.get('title') and data.get('stars') and data.get('review_count'):
             results.append(data)
             
-        with open('results.json', 'w', encoding='utf-8') as f:
-            json.dump(results, f, ensure_ascii=False, indent=2)
+    with open('results.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
             
 finally:
     time.sleep(50)
