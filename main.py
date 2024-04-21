@@ -141,6 +141,3 @@ try:
 finally:
     time.sleep(50)
     driver.close()
-
-
-print("End test")
